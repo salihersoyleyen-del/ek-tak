@@ -1,0 +1,742 @@
+[
+  {
+    "id": "mahsur-1",
+    "ekipmanKod": "S09/LFP/301",
+    "tarih": "31.12.2025",
+    "istasyon": "İmes",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:17:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-2",
+    "ekipmanKod": "S03/LFP/101",
+    "tarih": "01.01.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:06:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-3",
+    "ekipmanKod": "S11/LFP/102",
+    "tarih": "05.01.2026",
+    "istasyon": "Dudullu",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:14:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-4",
+    "ekipmanKod": "S10/LFP/302",
+    "tarih": "06.01.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "8",
+    "toplamSure": "00:10:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-5",
+    "ekipmanKod": "S09/LFP/101",
+    "tarih": "08.01.2026",
+    "istasyon": "İmes",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:04:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-6",
+    "ekipmanKod": "S04/LFP/102",
+    "tarih": "08.01.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:01:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-7",
+    "ekipmanKod": "S04/LFP/301",
+    "tarih": "08.01.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:02:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-8",
+    "ekipmanKod": "S02/LFP/101",
+    "tarih": "08.01.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:04:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-9",
+    "ekipmanKod": "S06/LFP/101",
+    "tarih": "08.01.2026",
+    "istasyon": "İçerenköy",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:06:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-10",
+    "ekipmanKod": "S01/LFP/302",
+    "tarih": "08.01.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:05:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-11",
+    "ekipmanKod": "S04/LFP/102",
+    "tarih": "08.01.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:07:00",
+    "kokSebep": "ENERJİ KESİNTİSİ",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-12",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "11.01.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:10:00",
+    "kokSebep": "İZOALSYON/KISA DEVRE ARIZASI",
+    "cozumOnerisi": "KISA DEVRE GİDERİLMİŞTİR"
+  },
+  {
+    "id": "mahsur-13",
+    "ekipmanKod": "S08/LFP/303",
+    "tarih": "15.01.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "9",
+    "toplamSure": "00:09:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-14",
+    "ekipmanKod": "S08/LFP/302",
+    "tarih": "22.01.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:11:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-15",
+    "ekipmanKod": "S03/LFP/101",
+    "tarih": "29.01.2026",
+    "istasyon": "AyşeKadın",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:02:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-16",
+    "ekipmanKod": "S01/LFP/102",
+    "tarih": "29.01.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:03:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-17",
+    "ekipmanKod": "S04/LFP/101",
+    "tarih": "30.01.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:09:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-18",
+    "ekipmanKod": "S06/LFP/301",
+    "tarih": "01.02.2026",
+    "istasyon": "İçerenköy",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:06:00",
+    "kokSebep": "ÜST KAPI YAY ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-19",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "02.02.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:25:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-20",
+    "ekipmanKod": "S09/LFP/301",
+    "tarih": "09.02.2026",
+    "istasyon": "İmes",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:18:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-21",
+    "ekipmanKod": "S09/LFP/301",
+    "tarih": "10.02.2026",
+    "istasyon": "İmes",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:19:00",
+    "kokSebep": "İZOLASYON/KISA DEVRE ARIZASI",
+    "cozumOnerisi": "KISA DEVRE GİDERİLMİŞTİR"
+  },
+  {
+    "id": "mahsur-22",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "14.02.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:27:00",
+    "kokSebep": "ÜST KAPI YAY ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-23",
+    "ekipmanKod": "S01/LFP/302",
+    "tarih": "15.02.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:05:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-24",
+    "ekipmanKod": "S04/LFP/301",
+    "tarih": "16.02.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:04:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-25",
+    "ekipmanKod": "S08/LFP/303",
+    "tarih": "23.02.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:07:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-26",
+    "ekipmanKod": "S06/LFP/301",
+    "tarih": "26.02.2026",
+    "istasyon": "İçerenköy",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:09:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-27",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "05.03.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:03:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-28",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "05.03.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:04:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-29",
+    "ekipmanKod": "S01/LFP/103",
+    "tarih": "09.03.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:04:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-30",
+    "ekipmanKod": "S05/LFP/301",
+    "tarih": "12.03.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "8",
+    "toplamSure": "00:01:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-31",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "25.03.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:26:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-32",
+    "ekipmanKod": "S12/LFP/302",
+    "tarih": "27.03.2026",
+    "istasyon": "Huzur",
+    "yolcuSayisi": "5",
+    "toplamSure": "00:04:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-33",
+    "ekipmanKod": "S07/LFP/302",
+    "tarih": "07.04.2026",
+    "istasyon": "Kayışdağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:07:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-34",
+    "ekipmanKod": "S04/LFP/102",
+    "tarih": "11.04.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:07:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-35",
+    "ekipmanKod": "S07/LFP/301",
+    "tarih": "16.04.2026",
+    "istasyon": "Kayışdağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:07:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-36",
+    "ekipmanKod": "S08/LFP/302",
+    "tarih": "20.04.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:09:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-37",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "28.04.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:07:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-38",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "28.04.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:09:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-39",
+    "ekipmanKod": "S02/LFP/101",
+    "tarih": "29.04.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:05:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-40",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "02.05.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:13:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-41",
+    "ekipmanKod": "S04/LFP/301",
+    "tarih": "03.05.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:05:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-42",
+    "ekipmanKod": "S05/LFP/301",
+    "tarih": "04.05.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "6",
+    "toplamSure": "00:04:00",
+    "kokSebep": "VANDALİZM",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-43",
+    "ekipmanKod": "S08/LFP/303",
+    "tarih": "07.05.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:07:00",
+    "kokSebep": "VANDALİZM",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-44",
+    "ekipmanKod": "S09/LFP/101",
+    "tarih": "07.05.2026",
+    "istasyon": "İmes",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:17:00",
+    "kokSebep": "VANDALİZM",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-45",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "09.05.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:23:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-46",
+    "ekipmanKod": "S01/LFP/104",
+    "tarih": "10.05.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:06:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-47",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "02.06.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:04:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-48",
+    "ekipmanKod": "S01/LFP/302",
+    "tarih": "02.06.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:04:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-49",
+    "ekipmanKod": "S12/LFP/302",
+    "tarih": "04.06.2026",
+    "istasyon": "Huzur",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:03:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-50",
+    "ekipmanKod": "S05/LFP/101",
+    "tarih": "05.06.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:08:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-51",
+    "ekipmanKod": "S01/LFP/302",
+    "tarih": "06.06.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "6",
+    "toplamSure": "00:11:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-52",
+    "ekipmanKod": "S04/LFP/102",
+    "tarih": "09.06.2026",
+    "istasyon": "Kozyatağı",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:04:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-53",
+    "ekipmanKod": "S11/LFP/102",
+    "tarih": "11.06.2026",
+    "istasyon": "Dudullu",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:04:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-54",
+    "ekipmanKod": "S05/LFP/302",
+    "tarih": "13.06.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:03:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-55",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "16.06.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:09:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-56",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "24.06.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:06:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-57",
+    "ekipmanKod": "S13/LFP/301",
+    "tarih": "25.06.2026",
+    "istasyon": "Parseller",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:10:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-58",
+    "ekipmanKod": "S12/LFP/302",
+    "tarih": "30.06.2026",
+    "istasyon": "Huzur",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:02:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-59",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "02.07.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "2",
+    "toplamSure": "00:18:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-60",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "02.07.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:29:00",
+    "kokSebep": "KISA DEVRE ARIZASI",
+    "cozumOnerisi": "KISA DEVRE GİDERİLMİŞTİR"
+  },
+  {
+    "id": "mahsur-61",
+    "ekipmanKod": "S05/LFP/101",
+    "tarih": "02.07.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:12:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-62",
+    "ekipmanKod": "S01/LFP/301",
+    "tarih": "02.07.2026",
+    "istasyon": "Küçükbakkalköy",
+    "yolcuSayisi": "5",
+    "toplamSure": "00:13:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-63",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "09.07.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:16:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-64",
+    "ekipmanKod": "S06/LFP/101",
+    "tarih": "24.07.2026",
+    "istasyon": "İçerenköy",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:03:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-65",
+    "ekipmanKod": "S12/LFP/302",
+    "tarih": "30.07.2026",
+    "istasyon": "Huzur",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:02:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-66",
+    "ekipmanKod": "S12/LFP/302",
+    "tarih": "30.07.2026",
+    "istasyon": "Huzur",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:02:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-67",
+    "ekipmanKod": "S03/LFP/301",
+    "tarih": "05.08.2026",
+    "istasyon": "AyşeKadın",
+    "yolcuSayisi": "4",
+    "toplamSure": "00:19:00",
+    "kokSebep": "ÜST KAPI YAY ARIZASI",
+    "cozumOnerisi": "AYAR YAPILDI"
+  },
+  {
+    "id": "mahsur-68",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "08.08.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:04:00",
+    "kokSebep": "HABERLEŞME ARIZASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-69",
+    "ekipmanKod": "S06/LFP/101",
+    "tarih": "10.08.2026",
+    "istasyon": "İçerenköy",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:03:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-70",
+    "ekipmanKod": "S08/LFP/302",
+    "tarih": "12.08.2026",
+    "istasyon": "Mevlana",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:15:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-71",
+    "ekipmanKod": "S02/LFP/301",
+    "tarih": "17.08.2026",
+    "istasyon": "EAP",
+    "yolcuSayisi": "3",
+    "toplamSure": "00:00:00",
+    "kokSebep": "ENERJİ DALGALANMASI",
+    "cozumOnerisi": "ASANSÖR RESETLENDİ"
+  },
+  {
+    "id": "mahsur-72",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "19.08.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:13:00",
+    "kokSebep": "KABİN KONUM ARIZASI",
+    "cozumOnerisi": "ŞERİT PLASTİĞİ DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-73",
+    "ekipmanKod": "S10/LFP/301",
+    "tarih": "20.08.2026",
+    "istasyon": "Modoko",
+    "yolcuSayisi": "1",
+    "toplamSure": "00:15:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "İÇ KAPI FİŞ KONTAK DEĞİŞTİRİLDİ"
+  },
+  {
+    "id": "mahsur-74",
+    "ekipmanKod": "S01/LFP/302",
+    "tarih": "24.08.2026",
+    "istasyon": "Bostancı",
+    "yolcuSayisi": "7",
+    "toplamSure": "00:07:00",
+    "kokSebep": "KAPI FİŞ/KONTAK ARIZASI",
+    "cozumOnerisi": "İÇ KAPI FİŞ KONTAK DEĞİŞTİRİLDİ"
+  }
+]

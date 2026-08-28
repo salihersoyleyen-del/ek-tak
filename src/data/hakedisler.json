@@ -1,0 +1,172 @@
+[
+  {
+    "id": "sozlesme-1",
+    "sistem": "YÜRÜYEN MERDİVEN & ASANSÖR",
+    "hat": "M8",
+    "sozlesme": "M8 HATTI ASANSÖR VE YÜRÜYEN MERDİVEN BANT YEDEK PARÇA DAHİL BAKIM,ARIZA VE ONARIM İŞLERİ HİZMET ALIMI SÖZLEŞMESİ",
+    "sozlesmeNo": 7000002178,
+    "tur": "HİZMET",
+    "yuklenici": "OTİS ASANSÖR SAN. VE TİC. AŞ.",
+    "baslangic": "13.10.2025",
+    "bitis": "13.10.2026",
+    "kalanGun": 46,
+    "aktif": true,
+    "sozlesmeBedeli": 74390878,
+    "yillikBedel": 74390878,
+    "aylikHakedis": [
+      {
+        "ay": "09.2025",
+        "tutar": 5336000
+      },
+      {
+        "ay": "10.2025",
+        "tutar": 5336000
+      },
+      {
+        "ay": "11.2025",
+        "tutar": 5423000
+      },
+      {
+        "ay": "12.2025",
+        "tutar": 5597000
+      },
+      {
+        "ay": "01.2026",
+        "tutar": 5742000
+      },
+      {
+        "ay": "02.2026",
+        "tutar": 5829000
+      },
+      {
+        "ay": "03.2026",
+        "tutar": 5829000
+      },
+      {
+        "ay": "04.2026",
+        "tutar": 5829000
+      },
+      {
+        "ay": "05.2026",
+        "tutar": 5829000
+      },
+      {
+        "ay": "06.2026",
+        "tutar": 5829000
+      },
+      {
+        "ay": "07.2026",
+        "tutar": 5829000
+      }
+    ]
+  },
+  {
+    "id": "sozlesme-5",
+    "sistem": "YÜRÜYEN MERDİVEN & ASANSÖR",
+    "hat": "M8",
+    "sozlesme": "M8 BOSTANCI-DUDULLU-PARSELLER HATTI ASANSÖR VE YÜRÜYEN MERDİVEN/BANT BAKIM VE PERFORMANS YÜKSELTME İŞLERİ HİZMET ALIMI SÖZLEŞMESİ",
+    "sozlesmeNo": 7000001525,
+    "tur": "HİZMET",
+    "yuklenici": "BUGA OTIS ASANSÖR SAN. VE TİC. A.Ş.",
+    "baslangic": "28.07.2023",
+    "bitis": "28.07.2025",
+    "kalanGun": 0,
+    "aktif": false,
+    "sozlesmeBedeli": 45513750,
+    "yillikBedel": 22756875,
+    "aylikHakedis": [
+      {
+        "ay": "10.2024",
+        "tutar": 1395300
+      },
+      {
+        "ay": "11.2024",
+        "tutar": 1398600
+      },
+      {
+        "ay": "12.2024",
+        "tutar": 1395300
+      },
+      {
+        "ay": "01.2025",
+        "tutar": 1168740
+      },
+      {
+        "ay": "02.2025",
+        "tutar": 1263140
+      },
+      {
+        "ay": "04.2025",
+        "tutar": 1451940
+      },
+      {
+        "ay": "05.2025",
+        "tutar": 1451940
+      },
+      {
+        "ay": "06.2025",
+        "tutar": 1478320
+      },
+      {
+        "ay": "07.2025",
+        "tutar": 1478320
+      },
+      {
+        "ay": "08.2025",
+        "tutar": 1595220
+      },
+      {
+        "ay": "09.2025",
+        "tutar": 1595220
+      },
+      {
+        "ay": "10.2025",
+        "tutar": 1614100
+      },
+      {
+        "ay": "11.2025",
+        "tutar": 1614100
+      },
+      {
+        "ay": "12.2025",
+        "tutar": 1614100
+      },
+      {
+        "ay": "01.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "02.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "03.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "04.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "05.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "06.2026",
+        "tutar": 1614100
+      },
+      {
+        "ay": "07.2026",
+        "tutar": 1659360
+      },
+      {
+        "ay": "08.2026",
+        "tutar": 1659360
+      },
+      {
+        "ay": "09.2026",
+        "tutar": 1659360
+      }
+    ]
+  }
+]
