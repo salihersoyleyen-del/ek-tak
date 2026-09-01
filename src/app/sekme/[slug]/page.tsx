@@ -32,7 +32,7 @@ export default function SekmePage({ params }: { params: { slug: string } }) {
         <div>
               <BackLink />
           {children}
-        </div>div>
+        </div>
       );
   
     switch (sekme.slug) {
@@ -120,4 +120,3 @@ export default function SekmePage({ params }: { params: { slug: string } }) {
               return wrapped(<YakindaSayfasi baslik={sekme.ad} />);
     }
 }
-</div>
