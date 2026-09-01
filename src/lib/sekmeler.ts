@@ -1,11 +1,12 @@
 export type Sekme = {
-  slug: string;
-  ad: string;
-  icon: string;
-  aktif: boolean; // true = has real functionality, false = placeholder
+    slug: string;
+    ad: string;
+    icon: string;
+    aktif: boolean; // true = has real functionality, false = placeholder
 };
 
 export const SEKMELER: Sekme[] = [
+  { slug: "grafik-tablo", ad: "M8 YM AS Grafik Tablo", icon: "ti-table", aktif: true },
   { slug: "haftalik-performans", ad: "Haftalık performans", icon: "ti-chart-bar", aktif: true },
   { slug: "hakedisler", ad: "Hakedişler", icon: "ti-file-invoice", aktif: true },
   { slug: "ekipmanlar-ym", ad: "YM teknik bilgiler", icon: "ti-escalator", aktif: true },
@@ -25,8 +26,8 @@ export const SEKMELER: Sekme[] = [
   { slug: "muayene-ym", ad: "Muayene YM", icon: "ti-clipboard-check", aktif: false },
   { slug: "muayene-as", ad: "Muayene AS", icon: "ti-clipboard-check", aktif: false },
   { slug: "mahsur-kalma", ad: "Mahsur kalma", icon: "ti-elevator", aktif: true },
-];
+  ];
 
 export function getSekme(slug: string) {
-  return SEKMELER.find((s) => s.slug === slug);
+    return SEKMELER.find((s) => s.slug === slug);
 }
