@@ -1,0 +1,1162 @@
+{
+  "guncelleme": "30.03.2026 08:00",
+  "garantiBitis": "GARANTİ BİTİŞ TARİHİ 2026 MAYIS",
+  "asansorler": {
+    "columns": [
+      "LFP/101",
+      "LFP/102",
+      "LFP/103",
+      "LFP/104",
+      "LFP/301",
+      "LFP/302",
+      "LFP/303"
+    ],
+    "rows": [
+      {
+        "kod": "S01",
+        "istasyon": "Bostancı",
+        "toplam": 7,
+        "aktif": 7,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A"
+        ]
+      },
+      {
+        "kod": "S02",
+        "istasyon": "Emin Ali Paşa",
+        "toplam": 2,
+        "aktif": 2,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ]
+      },
+      {
+        "kod": "S03",
+        "istasyon": "Ayşe Kadın",
+        "toplam": 2,
+        "aktif": 2,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ]
+      },
+      {
+        "kod": "S04",
+        "istasyon": "Kozyatağı",
+        "toplam": 3,
+        "aktif": 3,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "A",
+          "S",
+          ""
+        ]
+      },
+      {
+        "kod": "S05",
+        "istasyon": "Küçükbakkalköy",
+        "toplam": 3,
+        "aktif": 3,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "A",
+          ""
+        ]
+      },
+      {
+        "kod": "S06",
+        "istasyon": "İçerenköy",
+        "toplam": 3,
+        "aktif": 3,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "A",
+          ""
+        ]
+      },
+      {
+        "kod": "S07",
+        "istasyon": "Kayışdağı",
+        "toplam": 4,
+        "aktif": 4,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "A",
+          "A",
+          "S"
+        ]
+      },
+      {
+        "kod": "S08",
+        "istasyon": "Mevlana",
+        "toplam": 5,
+        "aktif": 5,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "A",
+          "A",
+          "A"
+        ]
+      },
+      {
+        "kod": "S09",
+        "istasyon": "İmes",
+        "toplam": 2,
+        "aktif": 2,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ]
+      },
+      {
+        "kod": "S10",
+        "istasyon": "Modoko",
+        "toplam": 3,
+        "aktif": 3,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "",
+          "",
+          "",
+          "A",
+          "A",
+          ""
+        ]
+      },
+      {
+        "kod": "S11",
+        "istasyon": "Dudullu",
+        "toplam": 2,
+        "aktif": 2,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      },
+      {
+        "kod": "S12",
+        "istasyon": "Huzur",
+        "toplam": 4,
+        "aktif": 3,
+        "tasarruf": 1,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "A",
+          "T",
+          ""
+        ]
+      },
+      {
+        "kod": "S13",
+        "istasyon": "Parseller",
+        "toplam": 3,
+        "aktif": 3,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "engelli": "VAR",
+        "hucreler": [
+          "A",
+          "A",
+          "",
+          "",
+          "A",
+          "",
+          ""
+        ]
+      }
+    ],
+    "hatToplami": {
+      "toplam": 43,
+      "aktif": 42,
+      "tasarruf": 1,
+      "pasif": 0,
+      "insaat": 0,
+      "revizyon": 0
+    },
+    "d00": {
+      "kod": "D00",
+      "istasyon": "Yerleşke(BE)",
+      "toplam": 6,
+      "aktif": 2,
+      "tasarruf": 0,
+      "pasif": 0,
+      "insaat": 4,
+      "revizyon": 0
+    },
+    "genelToplam": {
+      "toplam": 49,
+      "aktif": 44,
+      "tasarruf": 1,
+      "pasif": 0,
+      "insaat": 4,
+      "revizyon": 0
+    }
+  },
+  "yurutenMerdiven": {
+    "rows": [
+      {
+        "kod": "S01",
+        "istasyon": "Bostancı",
+        "toplam": 14,
+        "aktif": 14,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 2,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/105",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/106",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/107",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/108",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/306",
+            "durum": "A"
+          }
+        ]
+      },
+      {
+        "kod": "S02",
+        "istasyon": "Emin Ali Paşa",
+        "toplam": 8,
+        "aktif": 8,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "K"
+          }
+        ]
+      },
+      {
+        "kod": "S03",
+        "istasyon": "Ayşe Kadın",
+        "toplam": 8,
+        "aktif": 8,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "K"
+          }
+        ]
+      },
+      {
+        "kod": "S04",
+        "istasyon": "Kozyatağı",
+        "toplam": 18,
+        "aktif": 18,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 2,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/105",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/106",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/107",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/108",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/204",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/205",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/206",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/207",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/208",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "S"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "S"
+          }
+        ]
+      },
+      {
+        "kod": "S05",
+        "istasyon": "Küçükbakkalköy",
+        "toplam": 12,
+        "aktif": 12,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/401",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/402",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/501",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/502",
+            "durum": "K"
+          }
+        ]
+      },
+      {
+        "kod": "S06",
+        "istasyon": "İçerenköy",
+        "toplam": 12,
+        "aktif": 12,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 2,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/401",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/402",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/403",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/404",
+            "durum": "A"
+          }
+        ]
+      },
+      {
+        "kod": "S07",
+        "istasyon": "Kayışdağı",
+        "toplam": 12,
+        "aktif": 12,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 0,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/204",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": "S"
+          },
+          {
+            "kod": "ESC/306",
+            "durum": "S"
+          }
+        ]
+      },
+      {
+        "kod": "S08",
+        "istasyon": "Mevlana",
+        "toplam": 24,
+        "aktif": 24,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 0,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/105",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/106",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/107",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/108",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/204",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/205",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/206",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/207",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/208",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/306",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/307",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/308",
+            "durum": "A"
+          }
+        ]
+      },
+      {
+        "kod": "S09",
+        "istasyon": "İmes",
+        "toplam": 8,
+        "aktif": 8,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "K"
+          }
+        ]
+      },
+      {
+        "kod": "S10",
+        "istasyon": "Modoko",
+        "toplam": 12,
+        "aktif": 12,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/501",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/502",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/601",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/602",
+            "durum": "A"
+          }
+        ]
+      },
+      {
+        "kod": "S11",
+        "istasyon": "Dudullu",
+        "toplam": 6,
+        "aktif": 6,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 0,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          }
+        ]
+      },
+      {
+        "kod": "S12",
+        "istasyon": "Huzur",
+        "toplam": 12,
+        "aktif": 10,
+        "tasarruf": 2,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 0,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/204",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "T"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "T"
+          }
+        ]
+      },
+      {
+        "kod": "S13",
+        "istasyon": "Parseller",
+        "toplam": 10,
+        "aktif": 10,
+        "tasarruf": 0,
+        "pasif": 0,
+        "insaat": 0,
+        "revizyon": 0,
+        "kritik": 4,
+        "hucreler": [
+          {
+            "kod": "ESC/101",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/102",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/103",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/104",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/201",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/202",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/301",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/302",
+            "durum": "K"
+          },
+          {
+            "kod": "ESC/303",
+            "durum": "A"
+          },
+          {
+            "kod": "ESC/304",
+            "durum": "A"
+          }
+        ]
+      }
+    ],
+    "hatToplami": {
+      "toplam": 156,
+      "aktif": 154,
+      "tasarruf": 2,
+      "pasif": 0,
+      "insaat": 0,
+      "revizyon": 0,
+      "kritik": 30
+    }
+  },
+  "legend": [
+    {
+      "kod": "A",
+      "ad": "Aktif",
+      "renk": "#3fae4e"
+    },
+    {
+      "kod": "P",
+      "ad": "Pasif",
+      "renk": "#e53935"
+    },
+    {
+      "kod": "İ",
+      "ad": "İnşai",
+      "renk": "#f5a623"
+    },
+    {
+      "kod": "K",
+      "ad": "Kritik",
+      "renk": "#1c5fa8"
+    },
+    {
+      "kod": "T",
+      "ad": "Tasarruf",
+      "renk": "#c8e6c9"
+    },
+    {
+      "kod": "R",
+      "ad": "İzolasyon",
+      "renk": "#bcd6ea"
+    },
+    {
+      "kod": "S",
+      "ad": "Proje İptali",
+      "renk": "#9e9e9e"
+    }
+  ]
+}
