@@ -67,11 +67,15 @@ function GaranteBanner() {
 
 function CodeHeader({ label }: { label: string }) {
   return (
-    <th
-      className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center text-[9px]"
-      style={{ writingMode: "vertical-rl", transform: "rotate(180deg)" }}
-    >
-      {label}
+    <th className="border border-slate-200 bg-blue-100 p-0 text-center align-bottom">
+      <div className="flex h-[70px] w-6 items-center justify-center overflow-hidden">
+        <span
+          className="whitespace-nowrap text-[9px]"
+          style={{ transform: "rotate(-90deg)" }}
+        >
+          {label}
+        </span>
+      </div>
     </th>
   );
 }
