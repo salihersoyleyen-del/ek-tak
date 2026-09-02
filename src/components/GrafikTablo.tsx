@@ -127,26 +127,26 @@ function AsansorlerView() {
               <td className="sticky left-0 z-10 border border-slate-300 bg-slate-200 px-2 py-1">
                 HAT TOPLAMI
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.toplamBody}`}>
                 {d.hatToplami.toplam}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.aktif}`}>
                 {d.hatToplami.aktif}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.tasarruf}`}>
                 {d.hatToplami.tasarruf}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.pasif}`}>
                 {d.hatToplami.pasif}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.insaat}`}>
                 {d.hatToplami.insaat}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.revizyon}`}>
                 {d.hatToplami.revizyon}
               </td>
-              <td className="border border-slate-300 bg-slate-200" />
-              <td className="border border-slate-300 bg-slate-200" colSpan={d.columns.length} />
+              <td className={`border border-slate-200 ${COL.engelli}`} />
+              <td className="border border-slate-200 bg-slate-900" colSpan={d.columns.length} />
             </tr>
           </tbody>
         </table>
@@ -220,28 +220,28 @@ function YurutenMerdivenView() {
               <td className="sticky left-0 z-10 border border-slate-300 bg-slate-200 px-2 py-1">
                 TOPLAM
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.toplamBody}`}>
                 {d.hatToplami.toplam}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.aktif}`}>
                 {d.hatToplami.aktif}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.tasarruf}`}>
                 {d.hatToplami.tasarruf}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.pasif}`}>
                 {d.hatToplami.pasif}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.insaat}`}>
                 {d.hatToplami.insaat}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.revizyon}`}>
                 {d.hatToplami.revizyon}
               </td>
-              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+              <td className={`border border-slate-200 px-1.5 text-center ${COL.kritik}`}>
                 {d.hatToplami.kritik}
               </td>
-              <td className="border border-slate-300 bg-slate-200" colSpan={columns.length} />
+              <td className="border border-slate-200 bg-slate-900" colSpan={columns.length} />
             </tr>
           </tbody>
         </table>
