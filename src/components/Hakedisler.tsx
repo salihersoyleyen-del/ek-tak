@@ -54,9 +54,12 @@ export default function Hakedisler({
       )}
 
       {filtered.map((s) => {
-        const toplamAy = s.aylikHakedis.length;
         const doluAy = s.aylikHakedis.filter((a) => a.tutar > 0).length;
-        const yuzde = toplamAy > 0 ? Math.round((doluAy / 24) * 100) : 0;
+        const sozlesmeSuresiAy = (s as any).sozlesmeSuresiAy ?? doluAy;
+        const yuzde =
+          sozlesmeSuresiAy > 0
+            ? Math.round((doluAy / sozlesmeSuresiAy) * 100)
+            : 0;
         return (
           <div
             key={s.id}

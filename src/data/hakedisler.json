@@ -58,7 +58,8 @@
         "ay": "07.2026",
         "tutar": 5829000
       }
-    ]
+    ],
+    "sozlesmeSuresiAy": 12
   },
   {
     "id": "sozlesme-5",
@@ -167,6 +168,7 @@
         "ay": "09.2026",
         "tutar": 1659360
       }
-    ]
+    ],
+    "sozlesmeSuresiAy": 24
   }
 ]

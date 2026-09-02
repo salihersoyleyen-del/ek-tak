@@ -73,6 +73,7 @@ export type Sozlesme = {
   sozlesmeBedeli?: number;
   yillikBedel?: number;
   aylikHakedis: { ay: string; tutar: number }[];
+  sozlesmeSuresiAy?: number;
 };
 
 const ym = ymRaw as unknown as Ekipman[];
