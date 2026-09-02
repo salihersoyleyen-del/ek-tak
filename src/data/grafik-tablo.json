@@ -346,6 +346,38 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "A"
           },
@@ -368,6 +400,38 @@
           {
             "kod": "ESC/306",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -399,6 +463,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -413,6 +525,46 @@
           {
             "kod": "ESC/304",
             "durum": "K"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -444,6 +596,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -458,6 +658,46 @@
           {
             "kod": "ESC/304",
             "durum": "K"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -551,6 +791,46 @@
           {
             "kod": "ESC/304",
             "durum": "S"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -582,6 +862,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -598,12 +926,36 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
             "kod": "ESC/401",
             "durum": "A"
           },
           {
             "kod": "ESC/402",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
           },
           {
             "kod": "ESC/501",
@@ -643,6 +995,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -659,6 +1059,22 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
             "kod": "ESC/401",
             "durum": "A"
           },
@@ -673,6 +1089,14 @@
           {
             "kod": "ESC/404",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -704,6 +1128,22 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
             "kod": "ESC/201",
             "durum": "A"
           },
@@ -718,6 +1158,22 @@
           {
             "kod": "ESC/204",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
           },
           {
             "kod": "ESC/301",
@@ -742,6 +1198,38 @@
           {
             "kod": "ESC/306",
             "durum": "S"
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -851,6 +1339,30 @@
           {
             "kod": "ESC/308",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -882,6 +1394,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -896,6 +1456,46 @@
           {
             "kod": "ESC/304",
             "durum": "K"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -927,6 +1527,54 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
+            "kod": "ESC/201",
+            "durum": null
+          },
+          {
+            "kod": "ESC/202",
+            "durum": null
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "K"
           },
@@ -943,20 +1591,44 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
             "kod": "ESC/501",
             "durum": "K"
           },
           {
             "kod": "ESC/502",
             "durum": "K"
-          },
-          {
-            "kod": "ESC/601",
-            "durum": "A"
-          },
-          {
-            "kod": "ESC/602",
-            "durum": "A"
           }
         ]
       },
@@ -988,12 +1660,108 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
             "kod": "ESC/201",
             "durum": "A"
           },
           {
             "kod": "ESC/202",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
+            "kod": "ESC/301",
+            "durum": null
+          },
+          {
+            "kod": "ESC/302",
+            "durum": null
+          },
+          {
+            "kod": "ESC/303",
+            "durum": null
+          },
+          {
+            "kod": "ESC/304",
+            "durum": null
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -1025,6 +1793,22 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
             "kod": "ESC/201",
             "durum": "A"
           },
@@ -1041,6 +1825,22 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
+          },
+          {
             "kod": "ESC/301",
             "durum": "A"
           },
@@ -1055,6 +1855,46 @@
           {
             "kod": "ESC/304",
             "durum": "T"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       },
@@ -1086,12 +1926,52 @@
             "durum": "A"
           },
           {
+            "kod": "ESC/105",
+            "durum": null
+          },
+          {
+            "kod": "ESC/106",
+            "durum": null
+          },
+          {
+            "kod": "ESC/107",
+            "durum": null
+          },
+          {
+            "kod": "ESC/108",
+            "durum": null
+          },
+          {
             "kod": "ESC/201",
             "durum": "A"
           },
           {
             "kod": "ESC/202",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/203",
+            "durum": null
+          },
+          {
+            "kod": "ESC/204",
+            "durum": null
+          },
+          {
+            "kod": "ESC/205",
+            "durum": null
+          },
+          {
+            "kod": "ESC/206",
+            "durum": null
+          },
+          {
+            "kod": "ESC/207",
+            "durum": null
+          },
+          {
+            "kod": "ESC/208",
+            "durum": null
           },
           {
             "kod": "ESC/301",
@@ -1108,6 +1988,46 @@
           {
             "kod": "ESC/304",
             "durum": "A"
+          },
+          {
+            "kod": "ESC/305",
+            "durum": null
+          },
+          {
+            "kod": "ESC/306",
+            "durum": null
+          },
+          {
+            "kod": "ESC/307",
+            "durum": null
+          },
+          {
+            "kod": "ESC/308",
+            "durum": null
+          },
+          {
+            "kod": "ESC/401",
+            "durum": null
+          },
+          {
+            "kod": "ESC/402",
+            "durum": null
+          },
+          {
+            "kod": "ESC/403",
+            "durum": null
+          },
+          {
+            "kod": "ESC/404",
+            "durum": null
+          },
+          {
+            "kod": "ESC/501",
+            "durum": null
+          },
+          {
+            "kod": "ESC/502",
+            "durum": null
           }
         ]
       }
@@ -1120,7 +2040,39 @@
       "insaat": 0,
       "revizyon": 0,
       "kritik": 30
-    }
+    },
+    "columns": [
+      "ESC/101",
+      "ESC/102",
+      "ESC/103",
+      "ESC/104",
+      "ESC/105",
+      "ESC/106",
+      "ESC/107",
+      "ESC/108",
+      "ESC/201",
+      "ESC/202",
+      "ESC/203",
+      "ESC/204",
+      "ESC/205",
+      "ESC/206",
+      "ESC/207",
+      "ESC/208",
+      "ESC/301",
+      "ESC/302",
+      "ESC/303",
+      "ESC/304",
+      "ESC/305",
+      "ESC/306",
+      "ESC/307",
+      "ESC/308",
+      "ESC/401",
+      "ESC/402",
+      "ESC/403",
+      "ESC/404",
+      "ESC/501",
+      "ESC/502"
+    ]
   },
   "legend": [
     {

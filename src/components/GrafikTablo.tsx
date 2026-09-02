@@ -157,8 +157,8 @@ function AsansorlerView() {
 }
 
 function YurutenMerdivenView() {
-  const d = data.yurutenMerdiven;
-  const maxCols = Math.max(...d.rows.map((r) => r.hucreler.length));
+  const d = data.yurutenMerdiven as any;
+  const columns: string[] = d.columns;
   return (
     <div>
       <div className="mb-3 overflow-x-auto">
@@ -173,15 +173,19 @@ function YurutenMerdivenView() {
               <th className="border border-slate-200 bg-red-300 px-1.5 py-1.5">P</th>
               <th className="border border-slate-200 bg-amber-300 px-1.5 py-1.5">İnş.</th>
               <th className="border border-slate-200 bg-blue-200 px-1.5 py-1.5">Krt.</th>
-              {Array.from({ length: maxCols }).map((_, i) => (
-                <th key={i} className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center">
-                  {i + 1}
+              {columns.map((c) => (
+                <th
+                  key={c}
+                  className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center text-[9px]"
+                  style={{ writingMode: "vertical-rl" }}
+                >
+                  {c}
                 </th>
               ))}
             </tr>
           </thead>
           <tbody>
-            {d.rows.map((r) => (
+            {d.rows.map((r: any) => (
               <tr key={r.kod}>
                 <td className="sticky left-0 z-10 whitespace-nowrap border border-slate-200 bg-slate-50 px-2 py-1 font-medium">
                   {r.kod} {r.istasyon}
@@ -193,14 +197,11 @@ function YurutenMerdivenView() {
                 <td className="border border-slate-200 bg-blue-50 px-1.5 text-center font-semibold text-blue-800">
                   {r.kritik}
                 </td>
-                {Array.from({ length: maxCols }).map((_, i) => {
-                  const h = r.hucreler[i];
-                  return (
-                    <td key={i} className="border border-slate-200 p-0 text-center">
-                      {h ? <Cell durum={h.durum} /> : <div className="h-6 w-6 bg-slate-900" />}
-                    </td>
-                  );
-                })}
+                {r.hucreler.map((h: any, i: number) => (
+                  <td key={i} className="border border-slate-200 p-0 text-center">
+                    {h.durum ? <Cell durum={h.durum} /> : <div className="h-6 w-6 bg-slate-900" />}
+                  </td>
+                ))}
               </tr>
             ))}
             <tr className="font-bold">
@@ -222,7 +223,7 @@ function YurutenMerdivenView() {
               <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
                 {d.hatToplami.kritik}
               </td>
-              <td className="border border-slate-300 bg-slate-200" colSpan={maxCols} />
+              <td className="border border-slate-300 bg-slate-200" colSpan={columns.length} />
             </tr>
           </tbody>
         </table>
