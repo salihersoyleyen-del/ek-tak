@@ -13,8 +13,21 @@ const LEGEND_COLORS: Record<string, { bg: string; fg: string }> = {
   S: { bg: "#9e9e9e", fg: "#ffffff" },
 };
 
-function Cell({ durum }: { durum: string }) {
-  const c = LEGEND_COLORS[durum];
+// Column background shades, consistent header-to-body down the whole column
+const COL = {
+  toplam: "bg-blue-100",
+  toplamBody: "bg-white",
+  aktif: "bg-green-400",
+  tasarruf: "bg-green-100",
+  pasif: "bg-red-300",
+  insaat: "bg-amber-300",
+  revizyon: "bg-sky-100",
+  kritik: "bg-blue-200",
+  engelli: "bg-blue-100",
+};
+
+function Cell({ durum }: { durum: string | null | undefined }) {
+  const c = durum ? LEGEND_COLORS[durum] : undefined;
   if (!c) return <div className="h-6 w-6 shrink-0 bg-slate-900" />;
   return (
     <div
@@ -22,15 +35,6 @@ function Cell({ durum }: { durum: string }) {
       style={{ background: c.bg, color: c.fg }}
     >
       {durum}
-    </div>
-  );
-}
-
-function CountBadge({ label, value, color }: { label: string; value: number; color: string }) {
-  return (
-    <div className="rounded-md px-2 py-1 text-center" style={{ background: color }}>
-      <p className="text-[10px] text-white/90">{label}</p>
-      <p className="text-sm font-bold text-white">{value}</p>
     </div>
   );
 }
@@ -61,32 +65,37 @@ function GaranteBanner() {
   );
 }
 
+function CodeHeader({ label }: { label: string }) {
+  return (
+    <th
+      className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center text-[9px]"
+      style={{ writingMode: "vertical-rl", transform: "rotate(180deg)" }}
+    >
+      {label}
+    </th>
+  );
+}
+
 function AsansorlerView() {
   const d = data.asansorler;
   return (
     <div>
       <div className="mb-3 overflow-x-auto">
-        <table className="min-w-full border-separate border-spacing-0 text-xs">
+        <table className="border-collapse text-xs">
           <thead>
             <tr>
               <th className="sticky left-0 z-10 min-w-[130px] border border-slate-200 bg-blue-100 px-2 py-1.5 text-left">
                 İstasyon
               </th>
-              <th className="border border-slate-200 bg-green-200 px-1.5 py-1.5">T</th>
-              <th className="border border-slate-200 bg-green-400 px-1.5 py-1.5">A</th>
-              <th className="border border-slate-200 bg-green-100 px-1.5 py-1.5">Tas.</th>
-              <th className="border border-slate-200 bg-red-300 px-1.5 py-1.5">P</th>
-              <th className="border border-slate-200 bg-amber-300 px-1.5 py-1.5">İnş.</th>
-              <th className="border border-slate-200 bg-sky-100 px-1.5 py-1.5">Rev.</th>
-              <th className="border border-slate-200 bg-blue-100 px-1.5 py-1.5">Eng.</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.toplam}`}>Top.</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.aktif}`}>A</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.tasarruf}`}>T</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.pasif}`}>P</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.insaat}`}>İ</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.revizyon}`}>R</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.engelli}`}>E</th>
               {d.columns.map((c) => (
-                <th
-                  key={c}
-                  className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center"
-                  style={{ writingMode: "vertical-rl" }}
-                >
-                  {c}
-                </th>
+                <CodeHeader key={c} label={c} />
               ))}
             </tr>
           </thead>
@@ -96,13 +105,13 @@ function AsansorlerView() {
                 <td className="sticky left-0 z-10 whitespace-nowrap border border-slate-200 bg-slate-50 px-2 py-1 font-medium">
                   {r.kod} {r.istasyon}
                 </td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.toplam}</td>
-                <td className="border border-slate-200 bg-green-50 px-1.5 text-center">{r.aktif}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.tasarruf}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.pasif}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.insaat}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.revizyon}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.engelli}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.toplamBody}`}>{r.toplam}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.aktif}`}>{r.aktif}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.tasarruf}`}>{r.tasarruf}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.pasif}`}>{r.pasif}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.insaat}`}>{r.insaat}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.revizyon}`}>{r.revizyon}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.engelli}`}>{r.engelli}</td>
                 {r.hucreler.map((h, i) => (
                   <td key={i} className="border border-slate-200 p-0 text-center">
                     <Cell durum={h} />
@@ -132,13 +141,14 @@ function AsansorlerView() {
               <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
                 {d.hatToplami.revizyon}
               </td>
-              <td className="border border-slate-300 bg-slate-200" colSpan={8} />
+              <td className="border border-slate-300 bg-slate-200" />
+              <td className="border border-slate-300 bg-slate-200" colSpan={d.columns.length} />
             </tr>
           </tbody>
         </table>
       </div>
 
-      <div className="mb-3 rounded-md border border-slate-200 bg-white p-3 text-xs">
+      <div className="mb-3 rounded-md border border-slate-200 bg-slate-100 p-3 text-xs">
         <p className="mb-1 font-medium">D00 Yerleşke(BE)</p>
         <p className="text-slate-500">
           Toplam {d.d00.toplam} · Aktif {d.d00.aktif} · İnşaat Halinde {d.d00.insaat}
@@ -162,25 +172,21 @@ function YurutenMerdivenView() {
   return (
     <div>
       <div className="mb-3 overflow-x-auto">
-        <table className="min-w-full border-separate border-spacing-0 text-xs">
+        <table className="border-collapse text-xs">
           <thead>
             <tr>
               <th className="sticky left-0 z-10 min-w-[150px] border border-slate-200 bg-blue-100 px-2 py-1.5 text-left">
                 İstasyon
               </th>
-              <th className="border border-slate-200 bg-green-400 px-1.5 py-1.5">A</th>
-              <th className="border border-slate-200 bg-green-100 px-1.5 py-1.5">Tas.</th>
-              <th className="border border-slate-200 bg-red-300 px-1.5 py-1.5">P</th>
-              <th className="border border-slate-200 bg-amber-300 px-1.5 py-1.5">İnş.</th>
-              <th className="border border-slate-200 bg-blue-200 px-1.5 py-1.5">Krt.</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.toplam}`}>Top.</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.aktif}`}>A</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.tasarruf}`}>T</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.pasif}`}>P</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.insaat}`}>İ</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.revizyon}`}>R</th>
+              <th className={`border border-slate-200 px-1.5 py-1.5 ${COL.kritik}`}>K</th>
               {columns.map((c) => (
-                <th
-                  key={c}
-                  className="border border-slate-200 bg-blue-100 px-1 py-1.5 text-center text-[9px]"
-                  style={{ writingMode: "vertical-rl" }}
-                >
-                  {c}
-                </th>
+                <CodeHeader key={c} label={c} />
               ))}
             </tr>
           </thead>
@@ -190,16 +196,18 @@ function YurutenMerdivenView() {
                 <td className="sticky left-0 z-10 whitespace-nowrap border border-slate-200 bg-slate-50 px-2 py-1 font-medium">
                   {r.kod} {r.istasyon}
                 </td>
-                <td className="border border-slate-200 bg-green-50 px-1.5 text-center">{r.aktif}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.tasarruf}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.pasif}</td>
-                <td className="border border-slate-200 px-1.5 text-center">{r.insaat}</td>
-                <td className="border border-slate-200 bg-blue-50 px-1.5 text-center font-semibold text-blue-800">
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.toplamBody}`}>{r.toplam}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.aktif}`}>{r.aktif}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.tasarruf}`}>{r.tasarruf}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.pasif}`}>{r.pasif}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.insaat}`}>{r.insaat}</td>
+                <td className={`border border-slate-200 px-1.5 text-center ${COL.revizyon}`}>{r.revizyon}</td>
+                <td className={`border border-slate-200 px-1.5 text-center font-semibold ${COL.kritik}`}>
                   {r.kritik}
                 </td>
                 {r.hucreler.map((h: any, i: number) => (
                   <td key={i} className="border border-slate-200 p-0 text-center">
-                    {h.durum ? <Cell durum={h.durum} /> : <div className="h-6 w-6 bg-slate-900" />}
+                    <Cell durum={h.durum} />
                   </td>
                 ))}
               </tr>
@@ -207,6 +215,9 @@ function YurutenMerdivenView() {
             <tr className="font-bold">
               <td className="sticky left-0 z-10 border border-slate-300 bg-slate-200 px-2 py-1">
                 TOPLAM
+              </td>
+              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+                {d.hatToplami.toplam}
               </td>
               <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
                 {d.hatToplami.aktif}
@@ -221,6 +232,9 @@ function YurutenMerdivenView() {
                 {d.hatToplami.insaat}
               </td>
               <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
+                {d.hatToplami.revizyon}
+              </td>
+              <td className="border border-slate-300 bg-slate-200 px-1.5 text-center">
                 {d.hatToplami.kritik}
               </td>
               <td className="border border-slate-300 bg-slate-200" colSpan={columns.length} />
@@ -228,11 +242,6 @@ function YurutenMerdivenView() {
           </tbody>
         </table>
       </div>
-
-      <p className="mb-3 text-xs text-slate-400">
-        Not: Kritik ekipman hücreleri Google Sheets kaynağından görsel olarak eşleştirildi; hatalı
-        bir hücre görürsen söyle, hemen düzeltirim.
-      </p>
 
       <Legend />
       <GaranteBanner />
